@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro Gonçalves and I'm a mobile developement studant, from Limeira, Brasil</h2>
+<h2 align="left">Hi 👋! My name is Pedro Gonçalves and I'm a mobile dev studant, from Limeira, Brasil</h2>
 
 ###
 
