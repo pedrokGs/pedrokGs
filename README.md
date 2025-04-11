@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! My name is Pedro Gonçalves and I'm a mobile dev student, from Limeira, Brasil</h2>
-<h3 align= "left">I really like to work with POO languages, such as Java, Python, Flutter and more!</h3>
+<h3 align="left">Ex-Roblox Game Dev</h3>
+<!-- <h3 align= "left">I really like to work with POO languages, such as Java, Python, Flutter and more!</h3> -->
 <h3 align="left">Currently, my biggest learning objective is mastering Flutter!  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="14" alt="flutter logo"  /></h3>
 
 ###
