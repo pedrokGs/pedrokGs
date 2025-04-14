@@ -5,7 +5,7 @@
 
 ###
 
-<h3 align="left">WorldSkills 2028 Mobile Developer Competitor!</h2>
+<h3 align="left">WorldSkills 2028 Mobile Developer trainee!</h2>
 <h4 align="left">Current Stage: Starting Training.</h3>
 
 ###
