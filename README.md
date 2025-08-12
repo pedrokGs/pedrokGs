@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! I'm Pedro Gonçalves, a passionate developer from Limeira, Brasil.</h2>
 <p align="left">Turning ideas into apps and games using Flutter, Java, Lua, Python, and more.</p>
 
+<h3>Just building and breaking stuff</h3>
 <hr>
 
 <div align="center">
@@ -40,8 +41,6 @@
 </div>
 
 <br>
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
 ---
 
