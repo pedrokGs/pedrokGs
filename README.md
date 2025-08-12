@@ -22,13 +22,14 @@
 
 <br>
 
+<!--
 ## 🚀 Projetos em Destaque
 
 | Projeto           | Descrição                    | Tecnologias           | Link                                   |
 |-------------------|------------------------------|----------------------|----------------------------------------|
 | 🎮 Game Demo       | Jogo simples em Flutter       | Flutter, Dart        | [GitHub](https://github.com/pedrokGs/game-demo)  |
 | 🌐 Portfolio Web  | Meu website pessoal           | HTML, CSS, JS        | [Demo](https://pedrokgs.github.io)   |
-
+-->
 <br>
 
 <div align="center">
