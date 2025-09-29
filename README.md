@@ -1,12 +1,12 @@
 <h2 align="left">Hi 👋! I'm Pedro Gonçalves, a passionate developer from Limeira, Brazil.</h2>
-<p align="left">
+<!-- <p align="left">
   Turning ideas into apps and games using Flutter, Java, Lua, Python, and more.
-</p>
+</p> -->
 
-<h3 align="left">🚀 What I do</h3>
+<!-- <h3 align="left">🚀 What I do</h3>
 <p align="left">
   I build real-world applications and games, always aiming for clean and functional code.
-</p>
+</p> -->
 
 <hr>
 
