@@ -39,7 +39,7 @@
 <br>
 
 <!-- Social Links -->
-<h3 align="left">📫 Connect with me</h3>
+<!-- <h3 align="left">📫 Connect with me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/seu-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
@@ -47,7 +47,7 @@
   <a href="https://www.youtube.com/seu-canal">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" />
   </a>
-</div>
+</div> -->
 
 <br>
 
