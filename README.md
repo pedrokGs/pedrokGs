@@ -38,10 +38,6 @@ Welcome to my GitHub profile!
 ![pedrokGs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrokGs&show_icons=true&theme=radical)
 
 ---
-
-> “Code is my canvas, design is my palette, and games are my playground.”  
-
-Thanks for stopping by! Feel free to check out my work or connect via issues/discussions on my repos.
 <!-- Optional Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/pedroKgs/pedroKgs/output/snake.svg" alt="Snake animation" />
