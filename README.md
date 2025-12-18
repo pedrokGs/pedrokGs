@@ -15,7 +15,7 @@ I build mobile apps with **Flutter**. I'm basically a kid who learned to code be
 * Building my dream game slowly but surely.
 * Just making things that look good and work well.
 
-/ *
+/*
 ### 🎮 On the radar
 * **Currently playing:** ![Steam Status](https://github-readme-steam-card.vercel.app/status/?steamid=&theme=radical)
 * **All-time favorites:** *
