@@ -16,10 +16,10 @@ I build mobile apps with **Flutter**. I'm basically a kid who learned to code be
 * Just making things that look good and work well.
 
 
-// ### 🎮 On the radar
-// * **Currently playing:** ![Steam Status](https://github-readme-steam-card.vercel.app/status/?steamid=&theme=radical)
-// * **All-time favorites:** *
-//    * ⚔️ **Hollow Knight:** Amazing game, Amazing sequel, amazing everything
+ ### 🎮 On the radar
+ * **Currently playing:** ![Steam Status](https://github-readme-steam-card.vercel.app/status/?steamid=&theme=radical)
+ * **All-time favorites:** *
+    * ⚔️ **Hollow Knight:** Amazing game, Amazing sequel, amazing everything
 ---
 ### 📈 Stats
 ![pedrokGs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrokGs&show_icons=true&theme=radical)
