@@ -17,7 +17,7 @@ I build mobile apps with **Flutter**. I'm basically a kid who learned to code be
 
 
  ### 🎮 On the radar
- * [Steam Status](https://github-readme-steam-card.vercel.app/status/?steamid=76561199000388093&theme=radical)
+ * ![Steam Status](https://github-readme-steam-card.vercel.app/status/?steamid=76561199000388093&theme=radical)
  * **All-time favorites:** *
     * ⚔️ **Hollow Knight:** Amazing game, Amazing sequel, amazing everything
 ---
