@@ -6,6 +6,9 @@
 
 I build mobile apps with **Flutter**. I'm basically a kid who learned to code because I wanted to see my ideas actually come to life. When I’m not building apps, I’m usually messing around with game dev stuff.
 
+Current Objective: Training for WorldSkills Aichi 2028
+Side Projects: Some games and random flutter apps
+
 ---
 
 ### Tools I use
