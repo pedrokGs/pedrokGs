@@ -12,8 +12,8 @@ Side Projects: Some games and random flutter apps
 ---
 
 ### Tools I use
-* **Actual Coding:** Flutter & Dart
-* **Backend:** Firebase & Node
+* **Frontend:** Flutter & Dart
+* **Backend:** Firebase, Node & Rust (learning)
 * **Design:** Figma
 * **Hobbies:** Unity & Roblox Studio
 
