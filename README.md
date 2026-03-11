@@ -4,10 +4,10 @@
 
 # 👋 Hi, I'm Pedro!
 
-I build mobile apps with **Flutter**. I'm basically a kid who learned to code because I wanted to see my ideas actually come to life. When I’m not building apps, I’m usually messing around with game dev stuff.
+I build mobile apps with **Flutter**. I'm basically a kid who learned to code because I wanted to see my ideas actually come to life. When I’m not in mobile dev, I’m usually messing around with game dev stuff.
 
-Current Objective: Training for WorldSkills Aichi 2028
-Side Projects: Some games and random flutter apps
+Current Objective: Training for WorldSkills Aichi 2028 on Mobile Applications Development
+Side Projects: Some games and random apps
 
 ---
 
@@ -15,7 +15,7 @@ Side Projects: Some games and random flutter apps
 * **Frontend:** Flutter & Dart
 * **Backend:** Firebase, Node & Rust (learning)
 * **Design:** Figma
-* **Hobbies:** Unity & Roblox Studio
+* **Hobbies:** Unity
 
 ### What I’m up to
 * Trying to make my Flutter UIs look cleaner.
@@ -32,7 +32,7 @@ Side Projects: Some games and random flutter apps
  **All-time favorites:**
   * ⚔️ **Hollow Knight:** Amazing game, Amazing sequel, amazing everything
 ---
-### 📈 Stats
+### Fun Stat Stuffs
 
 
 <p align="center">
