@@ -32,6 +32,13 @@ Side Projects: Some games and random apps
  **All-time favorites:**
   * ⚔️ **Hollow Knight:** Amazing game, Amazing sequel, amazing everything
 ---
+
+### Check out my best projects:
+[BacklogRoulette](https://github.com/pedrokGs/BacklogRoulette) - A random game roulette which selects one of your steam games for you to play using a mood system, so you can finally get to play one of those game you bought but never played.
+
+And for now that is the only one!
+
+
 ### Fun Stat Stuffs
 
 
